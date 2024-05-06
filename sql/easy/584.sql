@@ -18,4 +18,4 @@ insert into Customer (id, name, referee_id) values ('5', 'Zack', '1');
 insert into Customer (id, name, referee_id) values ('6', 'Mark', '2');
 
 -- Ans:
-SELECT name FROM customer WHERE referee_id is null OR referee_id != 2;
+SELECT name FROM customer WHERE referee_id IS NULL OR referee_id != 2;

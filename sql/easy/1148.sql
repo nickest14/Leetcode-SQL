@@ -19,4 +19,4 @@ insert into Views (article_id, author_id, viewer_id, view_date) values ('3', '4'
 insert into Views (article_id, author_id, viewer_id, view_date) values ('3', '4', '4', '2019-07-21');
 
 -- Ans:
-SELECT DISTINCE author_id as id FROM views WHERE author_id = viewer_id ORDER BY id;
+SELECT DISTINCE author_id AS id FROM views WHERE author_id = viewer_id ORDER BY id;
