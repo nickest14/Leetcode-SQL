@@ -29,7 +29,7 @@ insert into UnitsSold (product_id, purchase_date, units) values ('2', '2019-03-2
 
 -- Ans:
 SELECT p.product_id,
-COALESCE(ROUND(SUM(u.units * p.price)::numeric / SUM(u.units), 2), 0) AS average_price
+COALESCE(ROUND(SUM(u.units * p.price)::NUMERIC / SUM(u.units), 2), 0) AS average_price
 FROM Prices AS p
 LEFT JOIN UnitsSold AS u
 ON u.product_id = p.product_id AND u.purchase_date BETWEEN p.start_date AND p.end_date
