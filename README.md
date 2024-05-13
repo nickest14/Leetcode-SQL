@@ -22,11 +22,13 @@
 #### 1757. Recyclable and Low Fat Products
 
 
-### Medium finish 3
+### Medium finish 5
 
+#### 550. Game Play Analysis IV
 #### 570. Managers with at Least 5 Direct Reports
+#### 1174. Immediate Food Delivery II
 #### 1193. Monthly Transactions I
 #### 1934. Confirmation Rate
 
 
-### Total finish 20
+### Total finish 22
