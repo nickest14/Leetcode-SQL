@@ -1,12 +1,14 @@
 # Leetcode-SQL
 ## Practice Leetcode sql problem
 
-### Easy finish 19
+### Easy finish 22
 
 #### 197. Rising Temperature
 #### 577. Employee Bonus
 #### 584. Find Customer Referee
 #### 595. Big Countries
+#### 596. Classes More Than 5 Students
+#### 619. Biggest Single Number
 #### 620. Not Boring Movies
 #### 1068. Product Sales Analysis I
 #### 1075. Project Employees I
@@ -20,6 +22,7 @@
 #### 1633. Percentage of Users Attended a Contest
 #### 1661. Average Time of Process per Machine
 #### 1683. Invalid Tweets
+#### 1729. Find Followers Count
 #### 1757. Recyclable and Low Fat Products
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
@@ -34,4 +37,4 @@
 #### 1934. Confirmation Rate
 
 
-### Total finish 25
+### Total finish 28

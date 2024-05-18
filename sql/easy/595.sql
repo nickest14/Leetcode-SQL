@@ -8,7 +8,7 @@ Create table If Not Exists World (
     area int,
     population int,
     gdp bigint
-)
+);
 
 -- Rows:
 Truncate table World;
