@@ -30,15 +30,19 @@
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
 
-### Medium finish 7
+### Medium finish 11
 
+#### 180. Consecutive Numbers
 #### 550. Game Play Analysis IV
 #### 570. Managers with at Least 5 Direct Reports
 #### 1045. Customers Who Bought All Products
 #### 1070. Product Sales Analysis III
+#### 1164. Product Price at a Given Date
 #### 1174. Immediate Food Delivery II
 #### 1193. Monthly Transactions I
+#### 1204. Last Person to Fit in the Bus
+#### 1907. Count Salary Categories
 #### 1934. Confirmation Rate
 
 
-### Total finish 32
+### Total finish 36
