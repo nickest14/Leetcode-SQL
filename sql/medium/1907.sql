@@ -13,7 +13,6 @@ insert into Accounts (account_id, income) values ('3', '108939');
 insert into Accounts (account_id, income) values ('2', '12747');
 insert into Accounts (account_id, income) values ('8', '87709');
 insert into Accounts (account_id, income) values ('6', '91796');
-insert into Accounts (account_id, income) values ('9', '30000');
 
 -- Ans:
 WITH cte AS (

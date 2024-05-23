@@ -1,7 +1,7 @@
 # Leetcode-SQL
 ## Practice Leetcode sql problem
 
-### Easy finish 25
+### Easy finish 26
 
 #### 197. Rising Temperature
 #### 577. Employee Bonus
@@ -27,14 +27,16 @@
 #### 1731. The Number of Employees Which Report to Each Employee
 #### 1757. Recyclable and Low Fat Products
 #### 1789. Primary Department for Each Employee
+#### 1978. Employees Whose Manager Left the Company
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
 
-### Medium finish 11
+### Medium finish 12
 
 #### 180. Consecutive Numbers
 #### 550. Game Play Analysis IV
 #### 570. Managers with at Least 5 Direct Reports
+#### 626. Exchange Seats
 #### 1045. Customers Who Bought All Products
 #### 1070. Product Sales Analysis III
 #### 1164. Product Price at a Given Date
@@ -45,4 +47,4 @@
 #### 1934. Confirmation Rate
 
 
-### Total finish 36
+### Total finish 38
