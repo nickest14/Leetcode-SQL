@@ -31,7 +31,7 @@
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
 
-### Medium finish 12
+### Medium finish 14
 
 #### 180. Consecutive Numbers
 #### 550. Game Play Analysis IV
@@ -43,8 +43,10 @@
 #### 1174. Immediate Food Delivery II
 #### 1193. Monthly Transactions I
 #### 1204. Last Person to Fit in the Bus
+#### 1321. Restaurant Growth
+#### 1341. Movie Rating
 #### 1907. Count Salary Categories
 #### 1934. Confirmation Rate
 
 
-### Total finish 38
+### Total finish 40
