@@ -31,11 +31,13 @@
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
 
-### Medium finish 14
+### Medium finish 16
 
 #### 180. Consecutive Numbers
 #### 550. Game Play Analysis IV
 #### 570. Managers with at Least 5 Direct Reports
+#### 585. Investments in 2016
+#### 602. Friend Requests II: Who Has the Most Friends
 #### 626. Exchange Seats
 #### 1045. Customers Who Bought All Products
 #### 1070. Product Sales Analysis III
@@ -48,5 +50,7 @@
 #### 1907. Count Salary Categories
 #### 1934. Confirmation Rate
 
+### Hard finish 1
+#### 185. Department Top Three Salaries
 
-### Total finish 40
+### Total finish 43
