@@ -1,8 +1,9 @@
 # Leetcode-SQL
 ## Practice Leetcode sql problem
 
-### Easy finish 26
+### Easy finish 29
 
+#### 196. Delete Duplicate Emails
 #### 197. Rising Temperature
 #### 577. Employee Bonus
 #### 584. Find Customer Referee
@@ -19,9 +20,11 @@
 #### 1251. Average Selling Price
 #### 1280. Students and Examinations
 #### 1378. Replace Employee ID With The Unique Identifier
+#### 1527. Patients With a Condition
 #### 1581. Customer Who Visited but Did Not Make Any Transactions
 #### 1633. Percentage of Users Attended a Contest
 #### 1661. Average Time of Process per Machine
+#### 1667. Fix Names in a Table
 #### 1683. Invalid Tweets
 #### 1729. Find Followers Count
 #### 1731. The Number of Employees Which Report to Each Employee
@@ -31,8 +34,9 @@
 #### 2356. Number of Unique Subjects Taught by Each Teacher
 
 
-### Medium finish 16
+### Medium finish 17
 
+#### 176. Second Highest Salary
 #### 180. Consecutive Numbers
 #### 550. Game Play Analysis IV
 #### 570. Managers with at Least 5 Direct Reports
@@ -53,4 +57,4 @@
 ### Hard finish 1
 #### 185. Department Top Three Salaries
 
-### Total finish 43
+### Total finish 47
