@@ -1,7 +1,7 @@
 # Leetcode-SQL
 ## Practice Leetcode sql problem
 
-### Easy finish 29
+### Easy finish 32
 
 #### 196. Delete Duplicate Emails
 #### 197. Rising Temperature
@@ -19,7 +19,10 @@
 #### 1211. Queries Quality and Percentage
 #### 1251. Average Selling Price
 #### 1280. Students and Examinations
+#### 1327. List the Products Ordered in a Period
 #### 1378. Replace Employee ID With The Unique Identifier
+#### 1484. Group Sold Products By The Date
+#### 1517. Find Users With Valid E-Mails
 #### 1527. Patients With a Condition
 #### 1581. Customer Who Visited but Did Not Make Any Transactions
 #### 1633. Percentage of Users Attended a Contest
@@ -57,4 +60,4 @@
 ### Hard finish 1
 #### 185. Department Top Three Salaries
 
-### Total finish 47
+### Total finish 50
